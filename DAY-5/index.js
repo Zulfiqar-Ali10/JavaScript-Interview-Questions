@@ -3,9 +3,9 @@
 // / Day 5  ///////////////////
 
 const p1 = {
-    fname: "Zulfiqar",
-    lname: "ALi",
-    age: 18,
+    fname: "Muhammad",
+    lname: "Hussain",
+    age: 20,
 }
 
 const p1Proxy = new Proxy(p1, {
